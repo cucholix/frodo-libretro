@@ -56,7 +56,7 @@ using std::vector;
 #ifdef HAVE_UTIME_H
 #include <utime.h>
 #endif
-
+/*
 #ifdef HAVE_SYS_PARAM_H
 #include <sys/param.h>
 #endif
@@ -95,7 +95,7 @@ using std::vector;
 #  include <time.h>
 # endif
 #endif
-
+*/
 #if HAVE_DIRENT_H
 # include <dirent.h>
 #else
